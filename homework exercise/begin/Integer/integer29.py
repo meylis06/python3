@@ -1,0 +1,5 @@
+A= int(input("Give value:"))
+B= int(input("Give value:"))
+C= int(input("Give value:"))
+Remaining= ((A * B) % C)
+print(Remaining)

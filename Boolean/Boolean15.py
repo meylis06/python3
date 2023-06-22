@@ -1,0 +1,5 @@
+A= int(input("A is:"))
+B= int(input("B is:"))
+C= int(input("C is :"))
+D= ((A > 0 and B > 0 and C < 0) or (A > 0 and B < 0 and C > 0) or (A < 0 and B > 0 and C > 0))
+print(D)

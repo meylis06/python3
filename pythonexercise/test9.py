@@ -1,0 +1,1 @@
+days=" Mon Tue Wed Thu"
